@@ -39,6 +39,7 @@
         android:ellipsize="end"
         android:maxLines="4"
         android:text="Abstract"
+        android:textColor="#888888"
         android:textAppearance="@style/TextAppearance.AppCompat.Light.SearchResult.Subtitle"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/mediaImage"
